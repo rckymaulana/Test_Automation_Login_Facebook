@@ -1,0 +1,4 @@
+NB: Hasil report testing katalon login facebook
+
+1. Buka Folder Reports
+2. Buka Folder 20220702_000653

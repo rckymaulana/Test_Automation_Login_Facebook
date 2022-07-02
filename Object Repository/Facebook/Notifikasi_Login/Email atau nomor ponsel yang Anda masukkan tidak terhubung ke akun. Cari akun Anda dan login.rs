@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login</name>
+   <tag></tag>
+   <elementGuidId>ee5e3808-60dc-4c3a-9378-cb6f37b120a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._4-u5._30ny</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7656afe0-7f68-4009-8b0d-fa30884f444b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_4-u5 _30ny</value>
+      <webElementGuid>bd40bfaa-dce9-4813-90f7-011101d57561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login ke FacebookEmail atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login.MasukLupa Kata Sandi?</value>
+      <webElementGuid>a59b7997-6ae7-40a9-b839-2fe11a1a5a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;_4-u5 _30ny&quot;]</value>
+      <webElementGuid>22d4dbce-556d-42ca-9ee3-ed691eab5ccd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div</value>
+      <webElementGuid>c3ad3be7-a17a-4d10-8425-d22e4541cf02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>cbaed8dd-3d85-479f-b748-04088d01503f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login ke FacebookEmail atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login.MasukLupa Kata Sandi?' or . = 'Login ke FacebookEmail atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login.MasukLupa Kata Sandi?')]</value>
+      <webElementGuid>4a6e4a90-488d-4632-b4ab-ccca15fd426b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
