@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_action/button_Masuk",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_/o\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook membantu Anda terhubung dan berbagi dengan orang-orang dalam kehidupan Anda.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20220702_000653/Facebook/Regression Test/20220702_000653/Object Repository/Page_action/button_Masuk_neighbor.png"
+    }
+  ]
+}

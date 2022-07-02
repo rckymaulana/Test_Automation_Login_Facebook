@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/button_Masuk",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_/o\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook membantu Anda terhubung dan berbagi dengan orang-orang dalam kehidupan Anda.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/button_Masuk_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook/Notifikasi_Login/Email yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login",
+      "brokenLocator": "//div[@id\u003d\u0027loginform\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook/Notifikasi_Login/Email yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook - Masuk atau Daftar/button_Masuk",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_zK\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook membantu Anda terhubung dan berbagi dengan orang-orang dalam kehidupan Anda.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Facebook - Masuk atau Daftar/button_Masuk_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_action/button_Masuk",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_/o\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook membantu Anda terhubung dan berbagi dengan orang-orang dalam kehidupan Anda.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_action/button_Masuk_neighbor.png"
+    }
+  ]
+}

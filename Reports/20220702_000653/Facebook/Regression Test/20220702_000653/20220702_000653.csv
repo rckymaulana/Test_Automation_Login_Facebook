@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regression Test,Chrome 103.0.5060.66,,,2022-07-02 00:07:15,2022-07-02 00:13:04,5m - 48.445s,PASSED
+,,,,,,,
+Test Cases/Facebook/Login_Email_Invalid,Chrome 103.0.5060.66,,,2022-07-02 00:07:16,2022-07-02 00:08:24,1m - 7.490s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.66,,,2022-07-02 00:07:18,2022-07-02 00:07:33,14.752s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 103.0.5060.66,,,2022-07-02 00:07:33,2022-07-02 00:07:40,7.007s,PASSED
+"setText(findTestObject(""Facebook/Notifikasi_Login/input_Facebook Email atau Nomor Telepon""), ""rickymaulana444@yahoo.com"")",Chrome 103.0.5060.66,,,2022-07-02 00:07:40,2022-07-02 00:07:43,2.709s,PASSED
+"click(findTestObject(""Page_action/button_Masuk""))",Chrome 103.0.5060.66,,,2022-07-02 00:07:43,2022-07-02 00:08:16,32.697s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Notifikasi_Login/Email yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login""))",Chrome 103.0.5060.66,,,2022-07-02 00:08:16,2022-07-02 00:08:22,6.793s,PASSED
+takeScreenshot(),Chrome 103.0.5060.66,,,2022-07-02 00:08:22,2022-07-02 00:08:24,1.651s,PASSED
+,,,,,,,
+Test Cases/Facebook/Login_Email_Null,Chrome 103.0.5060.66,,,2022-07-02 00:08:24,2022-07-02 00:09:40,1m - 15.729s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.66,,,2022-07-02 00:08:25,2022-07-02 00:08:35,9.857s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 103.0.5060.66,,,2022-07-02 00:08:35,2022-07-02 00:08:42,6.993s,PASSED
+"click(findTestObject(""Facebook/Notifikasi_Login/input_Facebook Email atau Nomor Telepon""))",Chrome 103.0.5060.66,,,2022-07-02 00:08:42,2022-07-02 00:08:43,0.939s,PASSED
+"click(findTestObject(""Page_action/button_Masuk""))",Chrome 103.0.5060.66,,,2022-07-02 00:08:43,2022-07-02 00:09:16,32.688s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Notifikasi_Login/Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login""))",Chrome 103.0.5060.66,,,2022-07-02 00:09:16,2022-07-02 00:09:36,19.849s,PASSED
+takeScreenshot(),Chrome 103.0.5060.66,,,2022-07-02 00:09:36,2022-07-02 00:09:37,1.251s,PASSED
+closeBrowser(),Chrome 103.0.5060.66,,,2022-07-02 00:09:37,2022-07-02 00:09:40,2.719s,PASSED
+,,,,,,,
+Test Cases/Facebook/Login_Password_Invalid,Chrome 103.0.5060.66,,,2022-07-02 00:09:40,2022-07-02 00:10:46,1m - 6.425s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.66,,,2022-07-02 00:09:41,2022-07-02 00:09:48,6.855s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 103.0.5060.66,,,2022-07-02 00:09:48,2022-07-02 00:09:56,8.100s,PASSED
+"setText(findTestObject(""Facebook/Notifikasi_Login/input_Facebook Email atau Nomor Telepon""), ""rickymaulana44@yahoo.com"")",Chrome 103.0.5060.66,,,2022-07-02 00:09:56,2022-07-02 00:09:58,1.944s,PASSED
+"setEncryptedText(findTestObject(""Facebook/Notifikasi_Login/input_Facebook Password""), ""tzH6RvlfSTg="")",Chrome 103.0.5060.66,,,2022-07-02 00:09:58,2022-07-02 00:10:00,2.181s,PASSED
+"click(findTestObject(""Page_action/button_Masuk""))",Chrome 103.0.5060.66,,,2022-07-02 00:10:00,2022-07-02 00:10:34,33.448s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Notifikasi_Login/Kata sandi yang Anda masukkan salah. Lupa Kata Sandi""))",Chrome 103.0.5060.66,,,2022-07-02 00:10:34,2022-07-02 00:10:44,9.953s,PASSED
+takeScreenshot(),Chrome 103.0.5060.66,,,2022-07-02 00:10:44,2022-07-02 00:10:44,0.780s,PASSED
+closeBrowser(),Chrome 103.0.5060.66,,,2022-07-02 00:10:44,2022-07-02 00:10:46,1.721s,PASSED
+,,,,,,,
+Test Cases/Facebook/Login_Password_Null,Chrome 103.0.5060.66,,,2022-07-02 00:10:46,2022-07-02 00:11:54,1m - 7.741s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.66,,,2022-07-02 00:10:48,2022-07-02 00:10:55,7.369s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 103.0.5060.66,,,2022-07-02 00:10:55,2022-07-02 00:11:02,6.675s,PASSED
+"click(findTestObject(""Facebook/Notifikasi_Login/input_Facebook Password""))",Chrome 103.0.5060.66,,,2022-07-02 00:11:02,2022-07-02 00:11:02,0.816s,PASSED
+"click(findTestObject(""Page_action/button_Masuk""))",Chrome 103.0.5060.66,,,2022-07-02 00:11:02,2022-07-02 00:11:36,33.934s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Notifikasi_Login/Email atau nomor ponsel yang Anda masukkan tidak terhubung ke akun. Cari akun Anda dan login""))",Chrome 103.0.5060.66,,,2022-07-02 00:11:36,2022-07-02 00:11:52,15.358s,PASSED
+takeScreenshot(),Chrome 103.0.5060.66,,,2022-07-02 00:11:52,2022-07-02 00:11:52,0.561s,PASSED
+closeBrowser(),Chrome 103.0.5060.66,,,2022-07-02 00:11:52,2022-07-02 00:11:54,1.684s,PASSED
+,,,,,,,
+Test Cases/Facebook/Login_Valid,Chrome 103.0.5060.66,,,2022-07-02 00:11:54,2022-07-02 00:13:04,1m - 9.579s,PASSED
+"openBrowser("""")",Chrome 103.0.5060.66,,,2022-07-02 00:11:55,2022-07-02 00:12:04,8.934s,PASSED
+"navigateToUrl(""https://id-id.facebook.com/"")",Chrome 103.0.5060.66,,,2022-07-02 00:12:04,2022-07-02 00:12:12,8.016s,PASSED
+maximizeWindow(),Chrome 103.0.5060.66,,,2022-07-02 00:12:12,2022-07-02 00:12:13,0.466s,PASSED
+"setText(findTestObject(""Facebook/Notifikasi_Login/input_Facebook Email atau Nomor Telepon""), ""rickymaulana44@yahoo.com"")",Chrome 103.0.5060.66,,,2022-07-02 00:12:13,2022-07-02 00:12:15,2.175s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook/Notifikasi_Login/input_Facebook Password""), ""xjHo8G+RvES5po0PD21SYQ=="")",Chrome 103.0.5060.66,,,2022-07-02 00:12:15,2022-07-02 00:12:16,1.565s,PASSED
+"click(findTestObject(""Page_action/button_Masuk""))",Chrome 103.0.5060.66,,,2022-07-02 00:12:16,2022-07-02 00:13:00,43.819s,PASSED
+closeBrowser(),Chrome 103.0.5060.66,,,2022-07-02 00:13:00,2022-07-02 00:13:04,3.331s,PASSED
